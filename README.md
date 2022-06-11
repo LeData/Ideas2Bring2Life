@@ -1,7 +1,8 @@
-# Ideas2Bring2Life
-Projects that I am carrying on my own and for whom I would love to collaborate.
-
-Each of these are ideas that I would like to develop and for which I am looking for collaborators:
+<h1 align="center">Ideas to bring to life</h1>
+<p align="center">
+<img src="https://media1.thehungryjpeg.com/thumbs2/ori_27284_8d1618f1d11139a448bbaa68a647a99283307505_cartoon-teamwork-with-big-rocket.jpg">
+</p>
+<h2 align="center">and on which I would love to collaborate !</h2>
 
 ---
 # MangaParser
@@ -45,10 +46,6 @@ Ideally this would be performed in a self-supervised manner, or using adversaria
 [OpenLabeler](https://github.com/kinhong/OpenLabeler)
 
 ---
-# HomeFitter
-Library to 
-
----
 # 2D Morse and art
 
 ---
@@ -77,3 +74,60 @@ This is not technically difficult as the backend should be relatively simple and
 # Roll Me Closer
 
 This is an intimacy building game based on competitive slot machine play.
+
+---
+# EscherNet
+
+ A machine learning algorithm that creates tesselations with representations of objects.
+ 
+## Features
+
+* user enters a word and gets a proposition of duals to tesselate with.
+---
+# HomeFitter
+
+<font color=red>!! This is already implemented by [MyVeloFit](https://www.myvelofit.com/?utm_source=insta&utm_medium=linktree&utm_campaign=home) !!</font>
+
+  This is a mobile application to help customers with bicycle purchases, enhance the experience of custom bike orders,
+  streamline the workflow for independent bicycle builders and eventually help manufacturers with stock management.
+
+It should have multiple features:
+* skeleton structure extraction from live video
+  * Customers provide their height
+  * put their phone on the floor and follow some stretching exercises
+  * They get some info on their position (inside height, spine, hip pivot...)
+  * They can watch their skeleton move on video
+* Customer profile
+  * They can track their flexibility and posture over time
+  * They can see their current bike geometry
+* Database
+  * They can see a personal fit score on all the standard manufacturer's bikes and their different sizes.
+  * They get pre-made custom frames for a range of bike types (commuter, road, MTB, touring, gravel)
+* Cumstom builds Lobby
+  * Customers can start conversation with independent frame builders and order a bicycle
+  * Frame Builders can manage all their current orders, including:
+    * communication with clients
+    * parts ordering
+    * tube ordering
+    * technical drawing generation (integration with BikeCAD, via xml)
+
+
+## Competition / integration
+[bikeinsights](https://bikeinsights.com/)
+
+[GeometryGeeks](https://geometrygeeks.bike/)
+
+[BikeCAD](https://www.bikecad.ca/)
+
+## References
+
+## Tools
+
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
+[MotioNet](https://github.com/Shimingyi/MotioNet)
+
+[list of repos](https://github.com/topics/skeleton-tracking)
+
+## Questions:
+Can this be a web3 application for tokenomics?
